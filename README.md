@@ -21,7 +21,7 @@ HTML was used to create the body, CSS to style it and Javascript's Jquery to mak
 
 ### License
 Moringa School
-
+Copyright (c)2019 **TriangleChecker by -Hudson saruni**
 
 
 

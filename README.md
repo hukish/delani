@@ -19,6 +19,9 @@ HTML was used to create the body, CSS to style it and Javascript's Jquery to mak
 * Contact me through my email: hudsonhukish@gmail.com
 * The source code is also contained within the folder containing this ReadMe with comments on the code thus third-party support can be offered.
 
+### License
+
+
 
 
 

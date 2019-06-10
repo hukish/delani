@@ -13,6 +13,7 @@ On loading the page, you will find the landing page welcoming you to the site. O
 |Enter name, email address and comment and comment and then submit| hudson saruni, hudsonhukish@gmail.com, I'm interested in this service| we've received your message, thank you for getting in touch with us |
 ## Known Bugs
 As of now there are no known bugs.
+## Technologies Used
 
 
 

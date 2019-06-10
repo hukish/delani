@@ -15,6 +15,11 @@ On loading the page, you will find the landing page welcoming you to the site. O
 As of now there are no known bugs.
 ## Technologies Used
 HTML was used to create the body, CSS to style it and Javascript's Jquery to make more interactive.
+## Support and contact details
+* Contact me through my email: hudsonhukish@gmail.com
+* The source code is also contained within the folder containing this ReadMe with comments on the code thus third-party support can be offered.
+
+
 
 
 

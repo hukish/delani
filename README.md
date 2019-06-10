@@ -6,6 +6,11 @@ This is a website for delani studio. It contains information on who Delani is, t
 ## Setup/Installation Requirements
 On loading the page, you will find the landing page welcoming you to the site. On scrolling down you will get more information about Delani and what they do. On clicking the images more information appears.
 ## Behavior driven developmentS
+|Behavior|Input|Output|
+|:-------|-----:|:------|
+|Loads page| Landing page |
+| | Click on images, or hover around images |Information about the images appear |
+|Enter name, email address and comment and comment and then submit| hudson saruni, hudsonhukish@gmail.com, I'm interested in this service| we've received your message, thank you for getting in touch with us |
 
 
 

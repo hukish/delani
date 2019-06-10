@@ -14,7 +14,7 @@ On loading the page, you will find the landing page welcoming you to the site. O
 ## Known Bugs
 As of now there are no known bugs.
 ## Technologies Used
-HTML was used to create the body, CSS to style it and Javascript's Jquery to make it interactive.
+HTML was used to create the body, CSS to style it and Javascript's Jquery to make more interactive.
 
 
 
